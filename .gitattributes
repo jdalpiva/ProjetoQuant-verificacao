@@ -1,0 +1,2 @@
+# Preserve the published SHA-256 of the public key on every platform.
+ProjetoQuant.pub -text
